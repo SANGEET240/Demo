@@ -1,4 +1,4 @@
 # Demo
 My first git Repo
 <br>
-Author - Sangeet biswas
+Author - Sangeet kumar biswas
